@@ -1,6 +1,6 @@
 #### Hi there! 👋
 
-You can see my some of my repositories below 👇
+You can see some of my repositories below 👇
 
 <!--
 **ddan9/ddan9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
