@@ -1,6 +1,6 @@
 #### Hi there! 👋
 
-My biography has disappeared somewhere. Can you help me find it?
+My biography has been lost somewhere. Can you help me find it?
 
 You can see some of my repositories below 👇
 
