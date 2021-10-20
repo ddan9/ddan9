@@ -2,9 +2,9 @@
 
 My biography has been lost somewhere. Can you help me find it?
 
-What I use: html, css, php, js, json, c++, pascal, shell, batch, markdown, dockerfile, csv, cfg, requests, sql
+What I use (and learning): html, css, php, js, json, c++, pascal, shell, batch, markdown, dockerfile, csv, cfg, requests, sql
 
-To learn: python, perl, redstone
+To learn: python, perl, redstone, java, c#
 
 You can see some of my repositories below 👇
 
