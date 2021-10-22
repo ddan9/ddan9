@@ -2,7 +2,9 @@
 
 My biography has been lost somewhere. Can you help me find it?
 
-What I use (and learning): html, css, php, js, json, c++, pascal, shell, batch, markdown, dockerfile, csv, cfg, requests, sql
+Languages (using/learing): html, css, php, js, json, c++, pascal, shell, batch, markdown, dockerfile, csv, cfg, requests, sql
+
+Instruments (using/learing): Linux, Windows, Android, Docker, nano, vi, vim, geany, netcat, gnu, git, mousepad, nginx, apache, mariadb, phpmyadmin, AIDE, CMD, Bash...
 
 To learn: python, perl, redstone, java, c#, nodejs
 
