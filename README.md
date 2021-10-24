@@ -8,6 +8,8 @@ Instruments (using/learing): Linux, Windows, Android, Docker, nano, vi, geany, n
 
 To learn: python, perl, redstone, java, c#, nodejs, xml
 
+To do: оформить вот это вот красивенько
+
 You can see some of my repositories below 👇
 
 <!--
