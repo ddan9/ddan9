@@ -4,9 +4,9 @@ My biography has been lost somewhere. Can you help me find it?
 
 Languages (using/learing): html, css, php, js, json, c++, pascal, shell, batch, markdown, dockerfile, csv, cfg, requests, sql
 
-Instruments (using/learing): Linux, Windows, Android, Docker, nano, vi, geany, netcat, GNU, git, GitHub, mousepad, nginx, apache, mariadb, phpmyadmin, AIDE, Termux, Busybox, CMD, Bash...
+Instruments (using/learing): Linux, Windows, Android, Docker, nano, vi, geany, netcat, GNU, git, GitHub, mousepad, nginx, apache, mariadb, phpmyadmin, AIDE, Termux, Busybox, CMD, Bash, fpc, wine...
 
-To learn: python, perl, redstone, java, c#, nodejs
+To learn: python, perl, redstone, java, c#, nodejs, xml
 
 You can see some of my repositories below 👇
 
