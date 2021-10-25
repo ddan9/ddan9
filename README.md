@@ -6,7 +6,7 @@ Languages (using/learing): html, css, php, js, json, c++, pascal, shell, batch, 
 
 Instruments (using/learing): Linux, Windows, Android, Docker, nano, vi, geany, netcat, GNU, git, GitHub, mousepad, nginx, apache, mariadb, phpmyadmin, AIDE, Termux, Busybox, CMD, Bash, fpc, wine, Postman, Borland, Qemu, DosBox...
 
-To learn: python, perl, redstone, java, c#, nodejs, xml, react
+To learn: python, perl, redstone, java, c#, nodejs, xml, react, zabbix, elk
 
 To do: оформить вот это вот красивенько
 
