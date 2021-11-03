@@ -1,5 +1,7 @@
 #### Hi there! 👋
 
+<!--
+
 My biography has been lost somewhere. Can you help me find it?
 
 Languages (using/learing): html, css, php, js, json, c++, pascal, shell, batch, markdown, dockerfile, csv, cfg, requests, sql, regex, awk
@@ -11,6 +13,8 @@ To learn: python, perl, redstone, java, c#, nodejs, xml, react, zabbix, elk
 To do: оформить вот это вот красивенько
 
 You can see some of my repositories below 👇
+
+-->
 
 <!--
 **ddan9/ddan9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
