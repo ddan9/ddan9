@@ -1,5 +1,3 @@
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ddan9&theme=default)
-
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=ddan9&count_private=true&show_icons=true&theme=light&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ddan9&&hide_border=true&theme=light&langs_count=10&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
