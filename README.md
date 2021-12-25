@@ -1,13 +1,17 @@
 <br />
 
-<code><img width="26px" height="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" /></code>
+<code><img width="32px" height="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" /></code>
 <code><img width="32px" height="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" /></code>
 <code><img width="32px" height="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" /></code>
 <code><img width="32px" height="32px" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/bash.svg" /></code>
 <code><img width="32px" height="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" /></code>
 <code><img width="32px" height="32px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" /></code>
 <code><img width="32px" height="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" /></code>
-  
+<code><img width="32px" height="32px" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/cpp.svg" /></code>
+<code><img width="32px" height="32px" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/git.svg" /></code>
+<code><img width="32px" height="32px" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/php.svg" /></code>
+<code><img width="32px" height="32px" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/google.svg" /></code>
+
 <br />
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=ddan9&count_private=true&show_icons=true&theme=light&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
