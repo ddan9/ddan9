@@ -1,5 +1,11 @@
 <br />
 
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=ddan9&count_private=true&show_icons=true&theme=light&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ddan9&&hide_border=true&theme=light&langs_count=10&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+<br />
+
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
@@ -49,10 +55,6 @@
 ![TOR](https://img.shields.io/badge/tor-%237E4798.svg?style=for-the-badge&logo=tor-project&logoColor=white)
 
 <br />
-
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=ddan9&count_private=true&show_icons=true&theme=light&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ddan9&&hide_border=true&theme=light&langs_count=10&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 
