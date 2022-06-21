@@ -4,8 +4,6 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ddan9&hide_border=true&theme=light&langs_count=10&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ddan9&hide_border=true&theme=light)](https://github.com/anuraghazra/github-readme-stats)
-
 <br />
 
 ***<div align="center">What I am using/learning?</div>***
